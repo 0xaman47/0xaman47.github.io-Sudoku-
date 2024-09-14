@@ -46,10 +46,6 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue to discuss your proposed changes before starting work.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Inspired by Sudoku solving techniques and algorithms.
